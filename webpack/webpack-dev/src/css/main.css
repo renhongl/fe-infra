@@ -1,0 +1,23 @@
+
+
+
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-image: url('../images/1.jpg');
+    background-size: cover;
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-image: url('../images/2.jpg');
+    background-size: cover;
+}
