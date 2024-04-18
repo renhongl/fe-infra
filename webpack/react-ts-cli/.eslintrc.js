@@ -1,5 +1,3 @@
-const { plugins } = require("./config/webpack.config.dev");
-
 module.exports = {
   env: {
     browser: true,
