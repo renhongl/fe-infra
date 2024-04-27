@@ -1,0 +1,6 @@
+packages:
+  # all packages in direct subdirs of main/
+  - "main"
+  - "common"
+  # all packages in subdirs of web/
+  - "web/**"
