@@ -1,7 +1,7 @@
 {
-  "name": "easy-react",
+  "name": "@renhongl/easy-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "Auto generate react typescript micro-app on the basis of webpack module federation",
   "main": "./bin/cli.js",
   "bin": {
     "easy-react": "./bin/cli.js"
@@ -9,8 +9,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "renhongl",
   "license": "ISC",
+  "keywords": [
+    "cli",
+    "webpack",
+    "react",
+    "typescript",
+    "webpack module federation",
+    "micro frontend",
+    "micro app"
+  ],
   "dependencies": {
     "commander": "^8.3.0",
     "execa": "^6.0.0",
