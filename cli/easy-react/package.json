@@ -1,6 +1,6 @@
 {
   "name": "@renhongl/easy-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto generate react typescript micro-app on the basis of webpack module federation",
   "main": "./bin/cli.js",
   "bin": {
