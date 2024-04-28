@@ -6,12 +6,15 @@
         "module": "es2022",
         "target": "es5",
         "jsx": "react",
-        "allowJs": false,
+        "allowJs": true,
+        "strict": false,
         "moduleResolution": "node",
-        "lib": ["es2018", "dom"],
+        "lib": ["dom", "dom.iterable", "esnext"],
+        "esModuleInterop": true,
         "allowSyntheticDefaultImports": true,
     },
     "include": [
         "./src/**/*"
-    ]
+    ],
+    "@typescript-eslint/no-explicit-any": "warn"
 }
