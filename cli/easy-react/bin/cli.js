@@ -24,7 +24,7 @@ program
         type: "list",
         name: "template",
         message: "Choose a template:",
-        choices: ["main", "subapp"],
+        choices: ["main", "subapp", "monorepo"],
       },
     ]);
 
